@@ -1,0 +1,6 @@
+#index .main-contant-wrapper {padding-bottom: 0}
+@media (min-width: 1280px) {
+  body .pk-menu-horizontal li.level-1 > a {
+  padding: 10px 50px;
+  }
+}

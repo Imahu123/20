@@ -1,0 +1,16 @@
+.checkout_field select {width:auto;}
+.checkout_field_desc, .checkout_field_desc p {font-size: 10px;}
+.checkout_field_desc p {margin: 0 0 9px;}
+.checkout_field .textarea-autosize(@direction: both) {
+  // Options: horizontal, vertical, both
+  resize: @direction;
+  // Safari fix
+  overflow: auto;
+}
+.checkout_field select {min-width: 200px;}
+.checkout_feilds_wrapper {margin-bottom: 10px;}
+#order-detail-checkout-fields-box .checkout-fields-container .checkout-fields-item-description{font-size: 10px; font-weight: normal;}
+
+.checkout_feilds_wrapper {}
+.checkout_field .form-control { border: 1px solid #dbdbdb; width: 100%;}
+.checkout_field .form-control[type=checkbox] { width: 100%; }

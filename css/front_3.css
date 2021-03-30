@@ -1,0 +1,13 @@
+.gx_livraison_emporter_nav_wrap { background:#eee; margin-bottom:40px !important;}
+#gx_livraison_emporter_nav {}
+#gx_livraison_emporter_nav ul { list-style:none; min-height:70px; line-height:40px; padding:15px;}
+#gx_livraison_emporter_nav ul li { padding:0 10px; display:inline-block;}
+.gx-delivery-type { border-left:1px dotted;}
+.gx-delivery-delay { border-right:1px dotted;}
+
+#gx_ship_type_name { color:#000; text-transform:uppercase;}
+
+.icon-address::before {content: '\e947'; color:#777;}
+.gx-icon.mid { font-size:30px; line-height:40px;}
+
+#gx_min_amount_msg {height: 40px;line-height: 40px;color: green;}

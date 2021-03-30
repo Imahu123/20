@@ -1,0 +1,61 @@
+/*
+ * Custom style goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+.fancybox-outer .container{
+	padding : 0px;
+}
+
+.fancybox-opened .fancybox-skin{
+	-webkit-box-shadow: 0 0px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.5); 
+}
+.fancybox-inner p, .fancybox-inner h2{
+	margin : 0;
+}
+.fancybox-wrap .fancybox-close {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    width: 36px;
+    height: 36px;
+}
+.fancybox-close, .fancybox-prev span, .fancybox-next span {
+    background-image: url(../images/fancybox_sprite_1.png) !important;
+}
+@media (min-width: 1280px){
+	.fancybox-inner{
+		width:800px !important;
+		height:700px !important;
+	}
+}
+
+@media (max-width: 500px){
+	.fancybox-inner img{
+		width:80% !important;
+	}
+	
+	.fancybox-wrap .fancybox-close {
+		position: absolute;
+		top: 20px;
+		right: 15%;
+		width: 36px;
+		height: 36px;
+	}
+}
+
+@media (max-width: 320px){
+	.fancybox-inner img{
+		width:260px !important;
+	}
+	
+	.fancybox-wrap .fancybox-close {
+		position: absolute;
+		top: 20px;
+		right: 10%;
+		width: 36px;
+		height: 36px;
+	}
+}

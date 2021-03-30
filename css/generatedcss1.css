@@ -1,0 +1,44 @@
+body{font-size:16px;font-family:'Roboto';font-weight:400;font-style:normal;line-height:1.5em;text-transform:none;color:#777777;letter-spacing:0em;}
+h2, h3, h4, h5, h6{font-family:'Archivo Narrow'}
+body .btn, .bt_compare{font-size:12px;font-family:'Archivo Narrow';font-weight:400;font-style:normal;line-height:1em;text-transform:uppercase;color:#ffffff;letter-spacing:0.1em;}
+body .btn, .bt_compare{border-color:#313537}
+body .btn, .bt_compare{background-color:#313537}
+body .btn:hover, .bt_compare:hover{color:#444444}
+body .btn:hover, .bt_compare:hover{background-color:transparent}
+body .btn:hover, .bt_compare:hover{border-color:#313537}
+#pattern .page-width, .menu_width, .flexmenu_ul, #top-menu{max-width:1500px}
+#header span.logo{font-size:35px;font-family:'Open Sans';font-weight:400;font-style:normal;line-height:1em;text-transform:none;color:#ffffff;letter-spacing:0.1em;}
+.header-top{background-color:transparent}
+.header-top > .page-width{height:30px}
+.header-top{font-size:13px;font-family:'Roboto';font-weight:400;font-style:normal;line-height:1em;text-transform:none;color:#8a8a8a;letter-spacing:0.04em;}
+.header-main > .page-width{height:95px}
+.header-main, .header-6 .header-main-back{background-color:#313537}
+.header-main{font-size:13px;font-family:'Archivo Narrow';font-weight:400;font-style:normal;line-height:1em;text-transform:uppercase;color:#ffffff;letter-spacing:0.06em;}
+.flexmenu-container, #pk_top_menu{height:40px}
+.flexmenu-container, #pk_top_menu, .header-4 .header-bottom, .header-7 .header-bottom{background-color:#d2222b}
+.flexmenuitem > a, .top-menu .level-1 > a{font-size:14px;font-family:'Archivo Narrow';font-weight:400;font-style:normal;line-height:1em;text-transform:uppercase;color:#fff;letter-spacing:0.1em;}
+.submenu, .pk-sub-menu{font-size:13px;font-family:'Roboto';font-weight:400;font-style:normal;line-height:1em;text-transform:none;color:#606060;letter-spacing:0.04em;}
+#header #search_widget input[type="text"]{background-color:transparent}
+#header #search_widget input[type="text"]{border-color:#4a4e4f}
+.footer-main{background-color:#323232}
+.footer-main{font-size:13px;font-family:'Roboto';font-weight:400;font-style:normal;line-height:1.5em;text-transform:none;color:#bdbdbd;letter-spacing:0.06em;}
+.footer-main h4{font-size:14px;font-family:'Archivo Narrow';font-weight:400;font-style:normal;line-height:1em;text-transform:uppercase;color:#e5e5e5;letter-spacing:0.15em;}
+#footer .footer-main a{color:#bdbdbd}
+.footer-bottom .page-width{justify-content:flex-start}
+.footer-bottom{background-color:#343434}
+.footer-bottom{font-size:13px;font-family:'Roboto';font-weight:400;font-style:normal;line-height:1em;text-transform:none;color:#7e7e7e;letter-spacing:0em;}
+.footer-bottom{height:80px}
+.module-title{font-size:18px;font-family:'Archivo Narrow';font-weight:400;font-style:normal;line-height:1em;text-transform:uppercase;color:#444444;letter-spacing:0.1em;}
+#product .product-price{font-size:22px;font-family:'Archivo Narrow';font-weight:400;font-style:italic;line-height:1.2em;text-transform:uppercase;color:#333333;letter-spacing:0em;}
+.product-thumbnail .btn{background-color:#313537}
+.product-thumbnail .btn:hover{background-color:#313537}
+.product-title{font-size:14px;font-family:'Roboto';font-weight:400;font-style:normal;line-height:1.267em;text-transform:none;color:#555555;letter-spacing:0.03em;}
+.product-brand{font-size:12px;font-family:'Roboto';font-weight:400;font-style:normal;line-height:1em;text-transform:uppercase;color:#bcbcbc;letter-spacing:0.12em;}
+.product-description-short{font-size:13px;font-family:'Roboto';font-weight:400;font-style:normal;line-height:1.2em;text-transform:none;color:#666666;letter-spacing:0em;}
+.price{font-size:15px;font-family:'Roboto';font-weight:400;font-style:normal;line-height:1.2em;text-transform:none;color:#333333;letter-spacing:0em;}
+.regular-price{font-size:14px;font-family:'Archivo Narrow';font-weight:400;font-style:normal;line-height:1.2em;text-transform:none;color:#bfbfbf;letter-spacing:0em;}
+.max-rating .svgic{color:#eeeeee}
+.cut-stars .svgic{color:#555555}
+.product-miniature .product-flags li{background-color:#313537}
+.product-miniature .product-flags li{font-size:12px;font-family:'Roboto';font-weight:400;font-style:normal;line-height:1.5em;text-transform:uppercase;color:#ffffff;letter-spacing:0.1em;}
+.sidebar .module-title{font-size:17px;font-family:'Archivo Narrow';font-weight:400;font-style:normal;line-height:1.2em;text-transform:uppercase;color:#313537;letter-spacing:0.08em;}
